@@ -34,3 +34,43 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# Content Lab IA
+
+Agente básico de criação de conteúdo com IA.
+
+## Objetivo
+
+Transformar um briefing simples em ideias de conteúdo, ganchos, roteiros, legendas, CTAs e checklist de revisão.
+
+## Tecnologias
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Gemini API
+- Vercel
+
+## Funcionalidades
+
+- Formulário de briefing
+- Geração de ideias de conteúdo
+- Geração de ganchos
+- Geração de roteiros curtos
+- Geração de legendas
+- Geração de CTAs
+- Checklist final de revisão
+
+## Limitações da versão básica
+
+- Não salva histórico
+- Não agenda posts
+- Não analisa métricas reais
+- Não conecta com redes sociais
+- Depende da qualidade do briefing
+
+## Como rodar localmente
+
+```bash
+npm install
+npm run dev
